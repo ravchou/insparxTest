@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15070" started-at="2019-03-04T16:37:35Z" finished-at="2019-03-04T16:37:50Z">
+  <suite name="Default suite" duration-ms="20380" started-at="2019-03-04T20:30:36Z" finished-at="2019-03-04T20:30:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15070" started-at="2019-03-04T16:37:35Z" finished-at="2019-03-04T16:37:50Z">
-      <class name="com.Test.Selenium">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.Test.Selenium@7c16905e]" name="init" is-config="true" duration-ms="3736" started-at="2019-03-04T16:37:35Z" finished-at="2019-03-04T16:37:39Z">
+    <test name="Default test" duration-ms="20380" started-at="2019-03-04T20:30:36Z" finished-at="2019-03-04T20:30:56Z">
+      <class name="com.Test.qa.selenium.Testbe2">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.Test.qa.selenium.Testbe2@7c16905e]" name="init" is-config="true" duration-ms="3720" started-at="2019-03-04T20:30:36Z" finished-at="2019-03-04T20:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="profilecreation()[pri:0, instance:com.Test.Selenium@7c16905e]" name="profilecreation" duration-ms="10473" started-at="2019-03-04T16:37:39Z" finished-at="2019-03-04T16:37:50Z">
+        <test-method status="PASS" signature="profileVerification()[pri:0, instance:com.Test.qa.selenium.Testbe2@7c16905e]" name="profileVerification" duration-ms="15726" started-at="2019-03-04T20:30:40Z" finished-at="2019-03-04T20:30:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- profilecreation -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Test.Selenium@7c16905e]" name="closeBrowser" is-config="true" duration-ms="814" started-at="2019-03-04T16:37:50Z" finished-at="2019-03-04T16:37:50Z">
+        </test-method> <!-- profileVerification -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Test.qa.selenium.Testbe2@7c16905e]" name="closeBrowser" is-config="true" duration-ms="887" started-at="2019-03-04T20:30:55Z" finished-at="2019-03-04T20:30:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- com.Test.Selenium -->
+      </class> <!-- com.Test.qa.selenium.Testbe2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
